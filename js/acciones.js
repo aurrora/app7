@@ -18,9 +18,9 @@ $('#derecha').on("awiperight",function() {
 		   case 2:
 		   navigator.notification.vibrate(1000);
 		   break;
-		  }
+	   }
 	},"Aplicacion7","Beep,Vibrar,Cancelar");
 	
 });
 	},false);
-})
+});
